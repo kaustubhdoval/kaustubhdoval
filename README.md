@@ -1,10 +1,14 @@
-### Hi! My name is SKAI and I welcome you to my lonely github page. 
+# 👋 Hello There
 
-- 👋 Hi, I’m @SKAI-24
+### My name is SKAI and I welcome you to my lonely github page. 
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+
+![](yes.gif)
 
 <!---
 SKAI-24/SKAI-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
