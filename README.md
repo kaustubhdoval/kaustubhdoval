@@ -2,11 +2,17 @@
 
 ### My name is SKAI and I welcome you to my lonely github page. 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Languages I know:
+- Python
+- Javascript
+- React Native
+- HTML + CSS
+- C++
+- C#
 
+> Some sappy quote from someone important ig
+
+My inbox is open, shoot me something if you'd like
 
 ![](yes.gif)
 
