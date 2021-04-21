@@ -12,7 +12,7 @@ Languages I know:
 
 > Some sappy quote from someone important ig
 
-My inbox is open, shoot me something if you'd like
+**💬My inbox is open, shoot me something if you'd like**
 
 ![](yes.gif)
 
