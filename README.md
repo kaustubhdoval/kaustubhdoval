@@ -21,12 +21,12 @@
   <img src='https://github.com/SKAI-24/SKAI-24/blob/main/yes.gif' align='center'>
 </details>
 
-<img src='https://github-readme-stats.vercel.app/api?username=SKAI-24&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SKAI-24&theme=tokyonight&hide_langs_below=4' />
+<img src='https://github-readme-stats.vercel.app/api?username=SKAI-24&show_icons=true&theme=gotham&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SKAI-24&theme=gotham&hide_langs_below=4' />
 
 <hr/>
 
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=SKAI-24&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/SKAI-24/SKAI-24?color=black&logo=github" />
 </p>
