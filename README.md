@@ -23,8 +23,13 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=SKAI-24&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SKAI-24&theme=tokyonight&hide_langs_below=4' />
-  
- 
+
+<hr/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=SKAI-24&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/SKAI-24/SKAI-24?color=black&logo=github" />
+</p>
 <!---
 SKAI-24/SKAI-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
