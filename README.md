@@ -22,7 +22,7 @@
 </details>
 
 <img src='https://github-readme-stats.vercel.app/api?username=SKAI-24&show_icons=true&theme=gotham&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SKAI-24&theme=gotham&hide_langs_below=4' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SKAI-24&langs_count=5&theme=gotham' />
 
 <hr/>
 
