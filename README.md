@@ -2,7 +2,7 @@
 
 <h3> My name is SKAI and I welcome you to my lonely GitHub page</h3>
 
-<p> I'm just a bored student dev who is looking to get more into the open source world. I am passionate about Web Development and Robotics.</p>
+<p> E Bruh xD moment send halp</p>
 <h5><i> 💬My inbox is open, shoot me something if you'd like <i></h5>
 
 <p align="center">
