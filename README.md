@@ -5,8 +5,8 @@
 <li>Feel Free to Reach Out!</li>
 
 <div align="center">
-  <a href="mailto:kaustubhdoval@gmail.com">Email</a>
-  <a href="">Personal Website</a>
+  <a href="mailto:kaustubhdoval@gmail.com">Email</a> |
+  <a href="">Personal Website</a> |
   <a href="https://www.linkedin.com/in/kaustubhdoval/">LinkedIn</a>
 </div>
 
