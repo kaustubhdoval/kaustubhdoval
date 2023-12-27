@@ -28,8 +28,8 @@
 </details>
 
 <div align="center">
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=SKAI-24&show_icons=true&theme=gotham&count_private=true&line_height=40'  align="left" />
-  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SKAI-24&langs_count=5&theme=gotham' />
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=kaustubhdoval&show_icons=true&theme=gotham&count_private=true&line_height=40'  align="left" />
+  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhdoval&langs_count=5&theme=gotham' />
 </div>
 
 <br>
