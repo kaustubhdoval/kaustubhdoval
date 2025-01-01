@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="mailto:kaustubhdoval@gmail.com">Email</a> |
-  <a href="https://kaustubhdoval.github.io">Personal Website</a> |
+  <a href="https://kdoval.com">Personal Website</a> |
   <a href="https://www.linkedin.com/in/kaustubhdoval/">LinkedIn</a>
 </div>
 
