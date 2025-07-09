@@ -1,7 +1,7 @@
 <h2 align="center"> 👋 Hello There, I'm Kaustubh </h2>
 
-<li>Electrical Engineering Student at the University of Waterloo</li>
-<li>Interested in Hardware Design</li>
+<li>Engineering Student at the University of Waterloo 👨‍🎓</li>
+<li>Interested in Embedded Systems ⚙️, Frontend Development 🖥️ and Machine Learning 🤖</li>
 <li>Feel Free to Reach Out!</li>
 
 <div align="center">
