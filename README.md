@@ -28,15 +28,11 @@
 </details>
 
 <div align="center">
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=kaustubhdoval&show_icons=true&theme=gotham&count_private=true&line_height=40'  align="left" />
-  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhdoval&langs_count=5&theme=gotham' />
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=kaustubhdoval&show_icons=true&theme=transparent&count_private=true&line_height=40'  align="left" />
+  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhdoval&langs_count=5&theme=transparent' />
 </div>
 
 <br>
-
-<p align="center">
-<img src="https://badges.pufler.dev/visits/SKAI-24/SKAI-24?color=black&logo=github" />
-</p>
 <!---
 SKAI-24/SKAI-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
