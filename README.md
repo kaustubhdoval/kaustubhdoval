@@ -27,12 +27,16 @@
   <img src='https://github.com/SKAI-24/SKAI-24/blob/main/yes.gif' align='center'>
 </details>
 
+![Snake animation](https://github.com/kaustubhdoval/kaustubhdoval/blob/output/github-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/kaustubhdoval/kaustubhdoval/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+<br>
+
 <div align="center">
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=kaustubhdoval&show_icons=true&theme=transparent&count_private=true&line_height=40'  align="left" />
   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhdoval&langs_count=5&theme=transparent' />
 </div>
 
-<br>
 <!---
 SKAI-24/SKAI-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
