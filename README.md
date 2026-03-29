@@ -1,7 +1,8 @@
-<li>ECE Student at the University of Waterloo 👨‍🎓</li>
-<li>Interested in Embedded Systems ⚙️, Frontend Development 🖥️ and Machine Learning 🤖</li>
-<li>Feel Free to Reach Out!</li>
+<h2 align="center"> 👋 Hello There, I'm Kaustubh </h2>
 
+<li>ECE Student at the University of Waterloo 👨‍🎓</li>
+<li>Building across hardware + software - from PCB design to ML pipelines</li>
+<li>Interested in Embedded Systems ⚙️, Machine Learning and Robotics 🤖</li>
 
 ![Snake animation](https://github.com/kaustubhdoval/kaustubhdoval/blob/output/github-snake.svg#gh-light-mode-only)
 ![Snake animation](https://github.com/kaustubhdoval/kaustubhdoval/blob/output/github-snake-dark.svg#gh-dark-mode-only)
